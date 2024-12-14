@@ -17,7 +17,7 @@ The rendered scene represents a room furnished with:
   - a fully customizable spring;
 - a customizable spotlight source to highlight the cake, attached to a lamp that is installed in the ceiling;
 - a wooden chair next to the table, that can be moved around on a small area;
-- 2 boards made of planes with textures applied containing the pictures of the group elements, attached to the back wall. These boards have wooden frames around them;
+- 2 boards made of planes with textures applied containing a picture of the author and another board with an image of a question mark (meaning that the picture for it could be anything), attached to the back wall. These boards have wooden frames around them to make them look more realistic;
 - 2 static light sources illuminating the boards mentioned above;
 - a central board on the back wall that contains the drawing of a beetle through the use of cubic bézier curves;
 - a window that allows for light to enter from the outside of the room, simulating the world's natural light. This window has doors with customizable rotations to allow only the desired ammount of light to enter the room.   
